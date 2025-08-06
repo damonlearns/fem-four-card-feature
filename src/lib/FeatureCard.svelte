@@ -27,12 +27,6 @@
 
 </style>
 
-<!--
-Layout dims
-Mobile: 300x250
-Desktop: 350x250
-border-t-teal-400
--->
 
 <div class="shadow-lg
             max-w-[350px] md:min-w-[350px] min-w-[300px]
